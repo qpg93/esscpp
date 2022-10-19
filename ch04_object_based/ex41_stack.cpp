@@ -5,7 +5,7 @@
  */
 
 #include <iostream>
-#include "Ex41_Stack.h"
+#include "ex41_stack.h"
 using namespace std;
 
 bool Ex41_Stack::pop(string &elem) {
