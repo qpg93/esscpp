@@ -6,7 +6,7 @@
 
 #include <iostream>
 #include <algorithm>
-#include "ex42_stack.h"
+#include "ex42.h"
 using namespace std;
 
 bool Ex42_Stack::pop(string &elem) {
